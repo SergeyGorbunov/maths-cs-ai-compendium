@@ -35,8 +35,6 @@ This repo includes an MCP server that lets any AI assistant (Claude Code, Cursor
 | 16 | [SIMD & GPU Programming](chapter%2016%3A%20SIMD%20and%20GPU%20programming/00.%20why%20C%2B%2B%20and%20how%20ML%20frameworks%20work.md) | C++ for ML, how frameworks work, hardware fundamentals, ARM NEON/I8MM/SME2, x86 AVX, GPU/CUDA, Triton, TPUs, RISC-V, Vulkan, WebGPU | Available |
 | 17 | [AI Inference](chapter%2017%3A%20AI%20inference/01.%20quantisation.md) | quantisation, efficient architectures, serving and batching, edge inference, speculative decoding, cost optimisation | Available |
 | 18 | [ML Systems Design](chapter%2018%3A%20ML%20systems%20design/01.%20systems%20design%20fundamentals.md) | systems fundamentals, cloud computing, distributed systems, ML lifecycle, feature stores, A/B testing, recommendation/search/ads/fraud design examples | Available |
-| 19 | Applied AI | Ai in finance, healthcare, protein, drug discovery | Coming |
-| 20 | Bleeding Edge AI | quantum ML, neuromorphic ML, decentralised AI, datacenters in space, brain machine interfaces | Coming |
 
 ## Foreword
 
